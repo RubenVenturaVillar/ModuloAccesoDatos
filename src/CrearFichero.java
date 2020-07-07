@@ -23,7 +23,6 @@ public class CrearFichero {
             System.out.println("El fichero ya existe");
         }
 
-
         System.out.println(archivo.getName());              //Devuelve el nombre
         System.out.println(archivo.getAbsolutePath());      //Devuelve la ruta absoluta
         System.out.println(archivo.exists());               //True si existe
