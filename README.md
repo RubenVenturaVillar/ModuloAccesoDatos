@@ -1,6 +1,7 @@
 # Modulo 6: Acceso a datos
 
 Repositorio de la asignatura Acceso a Datos del CFGS de DAM.
+
 ÍNDICE
 
  - UF1: Gestión de archivos
